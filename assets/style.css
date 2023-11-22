@@ -8,8 +8,22 @@ body{
     background-color: black;
 }
 
+header{ 
+    text-align: end;
+}
+
+header button{
+    background-color: #66727F;
+    opacity: 0.8;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
 main{
-    padding-block: 3%;
+    padding-top: 2%;
+    padding-bottom: 3%;
     padding-inline: 2%;
     width: 100%;
     height: 90vh;
@@ -32,12 +46,11 @@ main section div{
 }
 
 .pincopallo{
-    text-align:end;
     position: absolute;
     bottom: 0%;
     color: white;
-    padding: 5%;
-    background-color: #63707D;
+    padding: 2%;
+    background-color: ;
+   
     font-family: sans-serif;
-    
-}
+    }
